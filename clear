@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3e06320..8dec356 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,4 +1,4 @@[m
+ <p> this is new local repo[m
+ </p>[m
+ <p>changes is only done in feature 1 branch[m
+[31m-</p>[m
+\ No newline at end of file[m
+[32m+[m[32m</p>git[m[41m [m
+\ No newline at end of file[m
